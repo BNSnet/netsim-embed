@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Protocol",""]],"fn":[["wire",""]],"struct":[["DelayBuffer",""],["Ipv4Range","A range of IPv4 addresses with a common prefix"],["Ipv4Route",""],["Packet",""],["Plug",""]]});

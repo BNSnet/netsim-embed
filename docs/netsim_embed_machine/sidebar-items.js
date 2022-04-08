@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["unshare_user",""]],"mod":[["iface",""]],"struct":[["Machine","Spawns a thread in a new network namespace and configures a TUN interface that sends and receives IP packets from the tx/rx channels and runs some UDP/TCP networking code in task."],["MachineId",""],["Namespace",""]]});

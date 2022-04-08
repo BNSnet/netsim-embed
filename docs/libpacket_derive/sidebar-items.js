@@ -1,0 +1,1 @@
+initSidebarItems({"derive":[["Packet","The entry point for the `derive(Packet)` custom derive"]]});
